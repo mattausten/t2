@@ -1,0 +1,8 @@
+{
+  "name": "t2",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "a00b09e4"
+}
